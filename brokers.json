@@ -1,0 +1,125 @@
+[
+  {
+    "id": 2,
+    "name": "Alice Smith",
+    "company": "Investments Co",
+    "balance": 75011,
+    "role": "user",
+    "stocks": {
+      "AAPL": {
+        "quantity": 10,
+        "purchasePrice": 150.25
+      },
+      "SBUX": {
+        "quantity": 15,
+        "purchasePrice": 90.5
+      },
+      "MSFT": {
+        "quantity": 8,
+        "purchasePrice": 200.75
+      },
+      "CSCO": {
+        "quantity": 20,
+        "purchasePrice": 40.3
+      },
+      "QCOM": {
+        "quantity": 12,
+        "purchasePrice": 130.8
+      },
+      "AMZN": {
+        "quantity": 5,
+        "purchasePrice": 3200.3
+      },
+      "TSLA": {
+        "quantity": 3,
+        "purchasePrice": 700.5
+      },
+      "AMD": {
+        "quantity": 18,
+        "purchasePrice": 100.5
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "company": "Traders Ltd",
+    "balance": 120000,
+    "role": "user",
+    "stocks": {
+      "AAPL": {
+        "quantity": 14,
+        "purchasePrice": 1050.25
+      },
+      "SBUX": {
+        "quantity": 5,
+        "purchasePrice": 930.5
+      },
+      "MSFT": {
+        "quantity": 12,
+        "purchasePrice": 2345.75
+      },
+      "CSCO": {
+        "quantity": 2,
+        "purchasePrice": 100.3
+      },
+      "QCOM": {
+        "quantity": 1,
+        "purchasePrice": 130.8
+      },
+      "AMZN": {
+        "quantity": 5,
+        "purchasePrice": 123543.1
+      },
+      "TSLA": {
+        "quantity": 3,
+        "purchasePrice": 1046.5
+      },
+      "AMD": {
+        "quantity": 18,
+        "purchasePrice": 3412.5
+      }
+    }
+  },
+  {
+    "name": "Алиса Тулегенова",
+    "company": "Яндекс",
+    "balance": 4058.74,
+    "id": 1698344581591,
+    "role": "admin",
+    "stocks": {
+      "AAPL": {
+        "quantity": 10,
+        "purchasePrice": 1534.25
+      },
+      "SBUX": {
+        "quantity": 12,
+        "purchasePrice": 3056.5
+      },
+      "MSFT": {
+        "quantity": 8,
+        "purchasePrice": 1909.75
+      },
+      "CSCO": {
+        "quantity": 19,
+        "purchasePrice": 3422.3
+      },
+      "QCOM": {
+        "quantity": 12,
+        "purchasePrice": 1346.8
+      },
+      "AMZN": {
+        "quantity": 8,
+        "purchasePrice": 27449.060000000005
+      },
+      "TSLA": {
+        "quantity": 1,
+        "purchasePrice": 233.5
+      },
+      "AMD": {
+        "quantity": 33,
+        "purchasePrice": 3390.5
+      }
+    }
+  }
+]
